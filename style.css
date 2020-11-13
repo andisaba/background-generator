@@ -1,0 +1,47 @@
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+}
+
+.color1, /* color picker inputs css */
+.color2 {
+    margin: 4px 6px 4px 6px;
+    height: 30px;
+}
+
+.label {
+    font: 'Arial', sans-serif;
+    font-size: 0.9rem;
+    letter-spacing: .1em;
+    text-transform: none;
+}
+
+    /* ramdom color picker button css */
+.gencolor {
+    background: linear-gradient(to right, red , yellow);
+    height: 30px;
+     margin: 4px 0px 4px 0px;
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
